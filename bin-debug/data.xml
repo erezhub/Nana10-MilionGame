@@ -1,0 +1,23 @@
+﻿<data>	
+	<question id="2" text="באיזה עיר נמצא איצטדיון רמת-גן?" answer="רמת גן" level="1" category="a" />
+	<question id="3" text="כמה ימים נמשכה מלחמת ששת-הימים?" answer="שישה ימים" level="1" category="b" />
+	<question id="4" text="מהו שמו הפרטי של נשיא המדינה שמעון פרס?" answer="שמעון" level="2" category="a"/>
+	<question id="5" text="מהי הדרגה של הרמטכל רב-אלוף גבי אשכנזי?" answer="רב אלוף" level="2" category="b"/>
+	<question id="6" text="מתי פרצה מלחמת יום הכיפורים?" answer="יום הכיפורים" level="3" category="b" />
+	<question id="1" text="מי פיסל את היצירה 'דוד'?" answer="מיכלאנג'לו" level="3" category="b" />
+
+	<question id="1" text="מהי בירת הנגב?" answer="באר שבע" level="1" category="b" />
+	<question id="1" text="מיהי אלופת העולם בכדורגל?" answer="ספרד" level="1" category="b" />
+	<question id="1" text="מיהו הנשיא הראשון של מדינת ישראל?" answer="חיים וייצמן" level="1" category="b" />
+	<question id="1" text="מהי בירת פורטוגל?" answer="ליסבון" level="1" category="b" />
+	<question id="1" text="חלקו השני של ספר התנך?" answer="נביאים" level="1" category="b" />
+	<question id="1" text="מי מחזיקה בשיא הזכיות באליפות העולם בכדורגל?" answer="ברזיל" level="2" category="b" />
+	<question id="1" text="שם הספר הראשון בסדרת הארי פוטר - הארי פוטר ו..." answer="אבן החכמים" level="2" category="b" />
+	<question id="1" text="מהי בירת איסלנד?" answer="רייקיוויק" level="2" category="b" />
+	<question id="1" text="תוכנה המגינה על מחשב מפריצות ברשת?" answer="חומת אש" level="2" category="b" />
+	<question id="1" text="מיהו מחבר האיליאדה?" answer="הומרוס" level="3" category="b" />
+	<question id="1" text="מיהו שר התקשורת?" answer="שלום שמחון" level="3" category="b" />
+	<question id="1" text="צבע הקופסה של עמוס עוז?" answer="שחורה" level="3" category="b" />
+	<question id="1" answer="סקרמנטו" level="3" category="b"><![CDATA[מהי בירת מדינת קליפורניה שבארה"ב?]]></question>
+	<question id="1" answer="פרנקלין" level="3" category="b"><![CDATA[מה המכנה המשותף לבנג'מין ולרוזוולט?]]></question>
+</data>
